@@ -6,8 +6,8 @@
 <h6>Author : RKT</h6>
 
 
+A simple ruby progrom which display our internet ip address from linux. 
 
-A simple ruby progrom which display internet ip address from linux
 
 
 ### Setup ###
